@@ -1,2 +1,3 @@
 streamlit
 cx_Oracle
+cx_Oracle.connect('scott/tiger@localhost:1521/xe')
